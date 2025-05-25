@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Albert Khudaverdyan</h1>
-<p align="center">🔐 Aspiring Solidity Developer | 🌐 Based in Barcelona, Spain</p>
+<p align="center">🔐 Solidity Developer | 🌐 Based in Barcelona, Spain</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm an **autodidact developer** with a strong interest in **blockchain technologies**, smart contract development, and decentralized applications (dApps). My mission is to build secure and efficient systems that empower people through decentralization.
+I'm a Solidity Developer passionate about building secure and efficient smart contracts for real-world blockchain applications. With a strong foundation in Ethereum development and decentralized systems, I enjoy turning complex ideas into clean, well-structured code.
 
-I'm currently looking for **my first opportunity as a Solidity Developer**, where I can grow, learn and contribute to meaningful blockchain projects.
+I'm currently focused on expanding my impact in the Web3 space, contributing to projects where I can grow, collaborate, and help shape the decentralized future.
 
 ---
 
@@ -17,7 +17,7 @@ I'm currently looking for **my first opportunity as a Solidity Developer**, wher
 
 - **Languages**: JavaScript, TypeScript, Solidity
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, SQL
 - **Blockchain**: Ethereum, Ethers.js, Hardhat
 - **Tools**: Git, GitHub, Postman, VS Code
 
@@ -39,7 +39,7 @@ Includes wallet generation, persistent balances with LowDB, secure transaction s
 ### 🔹 [Escrow App](https://github.com/Hayk-1315/Escrow-App)
 A smart contract-based escrow service that allows safe transactions between two parties with a third-party arbiter.
 
-**Tech:** Solidity, React, Ethers.js, Hardhat
+**Tech:** JavaScript, Solidity, React, Ethers.js, Hardhat
 
 ---
 
@@ -58,7 +58,6 @@ Both projects reflect my ability to:
 
 - Fully migrate backend to a hosted database (e.g. MongoDB or Firebase)
 - Add user authentication and encryption for localStorage
-- Deploy Escrow Smart Contract to a testnet
 - Improve UI responsiveness and accessibility
 
 ---
