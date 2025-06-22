@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Albert Khudaverdyan</h1>
-<p align="center">🔐 Solidity Developer | 🌐 Based in Barcelona, Spain</p>
+<p align="center">🔐 Smart Contracts & Fullstack dApp Developer | 🌐 Based in Barcelona, Spain</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Solidity Developer passionate about building secure and efficient smart contracts for real-world blockchain applications. With a strong foundation in Ethereum development and decentralized systems, I enjoy turning complex ideas into clean, well-structured code.
+I'm a Smart Contracts & Fullstack dApp Developer passionate about building secure and efficient smart contracts for real-world blockchain applications. With a strong foundation in Ethereum development and decentralized systems, I enjoy turning complex ideas into clean, well-structured code.
 
 I'm currently focused on expanding my impact in the Web3 space, contributing to projects where I can grow, collaborate, and help shape the decentralized future.
 
@@ -17,7 +17,7 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 
 - **Languages**: JavaScript, TypeScript, Solidity
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express, SQL
+- **Backend**: Node.js, Express
 - **Blockchain**: Ethereum, Ethers.js, Hardhat
 - **Tools**: Git, GitHub, Postman, VS Code
 
@@ -29,19 +29,20 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 A simulated decentralized wallet built using cryptographic signing (ECDSA).  
 Includes wallet generation, persistent balances with LowDB, secure transaction signing, and transaction history.
 
-**Tech:** JavaScript, React, Ethereum-Cryptography, Node.js, Express, LowDB  
-![ECDSA Wallet UI](./Screenshots/WalletUI.png)  
-![Transfer Funds](./Screenshots/Transfer.png)  
-![Transaction History](./Screenshots/History.png)
+**Tech:** JavaScript, React, Ethereum-Cryptography, Node.js, Express, LowDB.  
 
 ---
+🔗 Live Frontend: https://ecdsa-wallet.vercel.app  
+🔗 Backend API:   https://ecdsa-wallet-backend.onrender.com
 
 ### 🔹 [Escrow App](https://github.com/Hayk-1315/Escrow-App)
 A smart contract-based escrow service that allows safe transactions between two parties with a third-party arbiter.
 
-**Tech:** JavaScript, Solidity, React, Ethers.js, Hardhat
+**Tech:** JavaScript, Solidity, React, Node.js, Express, LowDB, Ethers.js, Hardhat.
 
 ---
+🔗 Live Frontend: https://escrow-app-blue.vercel.app
+🔗 Backend API: https://escrow-backend-nbkb.onrender.com
 
 ## 🎯 Educational Value
 
@@ -62,13 +63,6 @@ Both projects reflect my ability to:
 
 ---
 
-## ☁️ Deployment Plans
-
-- 🔸 **Frontend** → Vercel  
-- 🔸 **Backend** → Render or Railway (Express + LowDB)
-
----
-
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/albert-khudaverdyan-656902253)
@@ -80,4 +74,3 @@ Both projects reflect my ability to:
 ## 📝 License
 
 This project is open-source under the [MIT License](LICENSE).
-
