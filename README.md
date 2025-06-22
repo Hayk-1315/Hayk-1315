@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi there 👋, I'm Albert Khudaverdyan</h1>
 <p align="center">🔐 Smart Contracts & Fullstack dApp Developer | 🌐 Based in Barcelona, Spain</p>
@@ -31,7 +30,6 @@ Includes wallet generation, persistent balances with LowDB, secure transaction s
 
 **Tech:** JavaScript, React, Ethereum-Cryptography, Node.js, Express, LowDB.  
 
----
 🔗 Live Frontend: https://ecdsa-wallet.vercel.app  
 🔗 Backend API:   https://ecdsa-wallet-backend.onrender.com
 
@@ -40,7 +38,6 @@ A smart contract-based escrow service that allows safe transactions between two 
 
 **Tech:** JavaScript, Solidity, React, Node.js, Express, LowDB, Ethers.js, Hardhat.
 
----
 🔗 Live Frontend: https://escrow-app-blue.vercel.app
 🔗 Backend API: https://escrow-backend-nbkb.onrender.com
 
