@@ -24,7 +24,7 @@ I'm currently focused on expanding my impact in the Web3 space, contributing to 
 
 ## 🚀 Highlight Projects
 
-### 🔹 [ECDSA-Wallet](https://github.com/Hayk-1315/ECDSA-Wallet)
+### 🔹 [ECDSA Wallet](https://github.com/Hayk-1315/ECDSA_Wallet)
 A simulated decentralized wallet built using cryptographic signing (ECDSA).  
 Includes wallet generation, persistent balances with LowDB, secure transaction signing, and transaction history.
 
